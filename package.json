@@ -1,0 +1,24 @@
+{
+  "name": "due-date",
+  "version": "1.0.0",
+  "description": "Calculate the due date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=node --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark182182/due-date.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark182182/due-date/issues"
+  },
+  "homepage": "https://github.com/mark182182/due-date#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
