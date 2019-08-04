@@ -4,6 +4,7 @@
   "description": "Calculate the due date.",
   "main": "index.js",
   "scripts": {
+    "start": "node due-date.js",
     "test": "jest --env=node --coverage"
   },
   "repository": {
